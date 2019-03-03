@@ -1,0 +1,4 @@
+(:name emacs-flow-jsx
+       :description "An emacs plugin for Flow, a static typechecker for JavaScript."
+       :type github
+       :pkgname "rudolfolah/emacs-flow-jsx")
